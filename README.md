@@ -1,4 +1,4 @@
-#About the repository
+# About the repository
 
 Every folder is different practical assignment for exam of programming windows console application in C++
 
@@ -8,6 +8,6 @@ Folders: [PrunterDokumenti](/prunterDokumenti) and [KandidatUspjeh](/KandidatUsp
 
 Every exam comes with some base clases setted up. Inside main there is testing data with assignments which certain class needs to handle.
 
-#Build
+# Build
 
 Copy one of the subfolders which contains assignment and solution and build it with visual studio or other environment which can build up windows console application written in C++
